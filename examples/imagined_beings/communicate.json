@@ -1,6 +1,10 @@
 [
-  {"name": "whisper", "tone": "hushed"},
-  {"name": "scream", "tone": "loud"},
-  {"name": "speak", "tone": "droll"},
-  {"name": "speak", "tone": "chattery"}
+  "whisper",
+  "scream",
+  "wave",
+  "mock",
+  "argue",
+  "chat",
+  "pray",
+  "sneer"
 ]

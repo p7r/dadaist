@@ -55,12 +55,12 @@
         "continent": "Africa"
     },
     {
-        "name": "Congo (Congo-Brazzaville)",
+        "name": "Congo",
         "capital": "Brazzaville",
         "continent": "Africa"
     },
     {
-        "name": "Democratic Republic of the Congo (Congo-Kinshasa)",
+        "name": "Democratic Republic of the Congo",
         "capital": "Kinshasa",
         "continent": "Africa"
     },
@@ -115,7 +115,7 @@
         "continent": "Africa"
     },
     {
-        "name": "Ivory Coast (Côte d'Ivoire)",
+        "name": "Ivory Coast",
         "capital": "Yamoussoukro",
         "continent": "Africa"
     },
@@ -215,9 +215,6 @@
         "continent": "Africa"
     },
     {
-        "continent": "Africa"
-    },
-    {
         "name": "São Tomé and Príncipe",
         "capital": "São Tomé",
         "continent": "Africa"
@@ -305,7 +302,7 @@
     {
         "name": "Afghanistan",
         "capital": "Kabul",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Akrotiri and Dhekelia",
@@ -325,7 +322,7 @@
     {
         "name": "Bahrain",
         "capital": "Manama",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Bangladesh",
@@ -345,7 +342,7 @@
     {
         "name": "Brunei",
         "capital": "Bandar Seri Begawan",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Cambodia",
@@ -363,7 +360,7 @@
         "continent": "Asia"
     },
     {
-        "name": "Cocos (Keeling) Islands",
+        "name": "Cocos Islands",
         "capital": "West Island",
         "continent": "Asia"
     },
@@ -400,17 +397,17 @@
     {
         "name": "Iran",
         "capital": "Tehran",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Iraq",
         "capital": "Baghdad",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Israel",
         "capital": "Jerusalem",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Japan",
@@ -420,7 +417,7 @@
     {
         "name": "Jordan",
         "capital": "Amman",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Kazakhstan",
@@ -430,7 +427,7 @@
     {
         "name": "Kuwait",
         "capital": "Kuwait City",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Kyrgyzstan",
@@ -445,7 +442,7 @@
     {
         "name": "Lebanon",
         "capital": "Beirut",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Macau",
@@ -468,7 +465,7 @@
         "continent": "Asia"
     },
     {
-        "name": "Myanmar (Burma)",
+        "name": "Myanmar",
         "capital": "Naypyidaw",
         "continent": "Asia"
     },
@@ -495,7 +492,7 @@
     {
         "name": "Oman",
         "capital": "Muscat",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Pakistan",
@@ -504,8 +501,8 @@
     },
     {
         "name": "Palestine",
-        "capital": "East Jerusalem (claimed capital)",
-        "continent": "Middle East"
+        "capital": "East Jerusalem",
+        "continent": "the Middle East"
     },
     {
         "name": "Philippines",
@@ -515,12 +512,12 @@
     {
         "name": "Qatar",
         "capital": "Doha",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Saudi Arabia",
         "capital": "Riyadh",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Singapore",
@@ -545,7 +542,7 @@
     {
         "name": "Syria",
         "capital": "Damascus",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Taiwan",
@@ -565,7 +562,7 @@
     {
         "name": "Turkey",
         "capital": "Ankara",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Turkmenistan",
@@ -575,7 +572,7 @@
     {
         "name": "United Arab Emirates",
         "capital": "Abu Dhabi",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Uzbekistan",
@@ -590,7 +587,7 @@
     {
         "name": "Yemen",
         "capital": "Sana'a",
-        "continent": "Middle East"
+        "continent": "the Middle East"
     },
     {
         "name": "Åland Islands",
@@ -1174,6 +1171,7 @@
     },
     {
         "name": "Ashmore and Cartier Islands",
+        "capital": "Ashmore and Cartier Islands",
         "continent": "Oceania"
     },
     {
@@ -1313,7 +1311,7 @@
     },
     {
         "name": "Tokelau",
-        "capital": "Nukunonu (main settlement, although each atoll has its own administrative centre)",
+        "capital": "Nukunonu",
         "continent": "Oceania"
     },
     {

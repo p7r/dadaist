@@ -11,7 +11,9 @@ module Dadaist
       renderer.result(@b)
     rescue NameError => e
       raise unless @sources_directory
-      @b.local_variable_set(e.name, OpenStruct.new(JSON.parse(File.read("#{@sources_directory}/#{e.name}.json")).sample))
+      obj = JSON.parse(File.read("#{@sources_directory}/#{e.name}.json")).sample
+      obj = OpenStruct.new(obj) unless obj.is_a? String
+      @b.local_variable_set(e.name, obj)
       retry
     end
   end
