@@ -1,0 +1,3 @@
+[
+  "<%= person.name %> lived in <%= country.name %> which is in <%= country.continent %>"
+]
