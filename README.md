@@ -30,6 +30,12 @@ inspired, make them warm and fuzzy inside. Do not use this to cause hatred,
 division, to attack or to lie. Twitter has enough of that already, it doesn't
 need you using this to do more.
 
+## Where is it being used?
+
+Right now dadaist powers https://twitter.com/imaginedbeings
+
+More will follow.
+
 ## Installation
 
 Add this line to your application's Gemfile:
