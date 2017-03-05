@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "dadaist"
+
+args = Hash[ ARGV.flat_map{|s| s.scan(/--?([^=\s]+)(?:=(\S+))?/) } ]
+
+client = Twitter::REST::Client.new do |config|
+  config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
+  config.consumer_secret     = ENV["TWITTER_CONSUMER_SECRET"]
+  config.access_token        = ENV["TWITTER_ACCESS_TOKEN"]
+  config.access_token_secret = ENV["TWITTER_ACCESS_SECRET"]
+end
+
+begin
+  templates = JSON.parse(File.read(args['templates']))
+
+  @generator = Dadaist::Story.new(templates, args['sources'])
+  client.update(@generator.generate)
+rescue JSON::ParserError => e
+  puts e.inspect
+end

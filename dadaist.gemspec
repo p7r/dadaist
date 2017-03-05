@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_runtime_dependency 'activesupport'
   spec.add_runtime_dependency 'verbs'
+  spec.add_runtime_dependency 'twitter'
 end
