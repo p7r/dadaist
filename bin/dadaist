@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "dadaist"
+
+args = Hash[ ARGV.flat_map{|s| s.scan(/--?([^=\s]+)(?:=(\S+))?/) } ]
+
+begin
+  templates = JSON.parse(File.read(args['templates']))
+
+  @generator = Dadaist::Story.new(templates, args['sources'])
+  puts @generator.generate
+rescue JSON::ParserError => e
+  puts e.inspect
+end

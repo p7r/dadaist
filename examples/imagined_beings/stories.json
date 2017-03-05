@@ -1,0 +1,8 @@
+[
+  "There is a <%= place.type %> in <%= country.name %> where <%= animal.name.downcase.pluralize %> <%= communicate.name.pluralize %> at the <%= place.made_of %>. It is said to <%= mood.name.pluralize %> them.",
+  "There is a <%= place.type %> near <%= country.capital %> where a <%= color.name %> <%= animal.name.downcase %> <%= mood.name.pluralize %> the locals",
+  "A <%= place.type %> in <%= country.name %> is said to have once been haunted by a <%= animal.name.downcase %> that collected <%= place.made_of %>",
+  "<%= color.name %> <%= place.type.pluralize %> in <%= country.continent %> are known to have made the ancients of <%= country.capital %> feel <%= mood.past_tense %>",
+  "The <%= animal.name.downcase %> that is said to have burrowed underneath <%= country.capital %> might be awakening",
+  "The <%= animal.name.downcase %> that is said to have burrowed underneath <%= country.capital %> hungers for a taste of <%= place.made_of %> the locals would be wise to satisfy"
+]
