@@ -360,7 +360,7 @@
         "continent": "Asia"
     },
     {
-        "name": "Cocos Islands",
+        "name": "the Cocos Islands",
         "capital": "West Island",
         "continent": "Asia"
     },
@@ -570,7 +570,7 @@
         "continent": "Asia"
     },
     {
-        "name": "United Arab Emirates",
+        "name": "the United Arab Emirates",
         "capital": "Abu Dhabi",
         "continent": "the Middle East"
     },
@@ -590,7 +590,7 @@
         "continent": "the Middle East"
     },
     {
-        "name": "Åland Islands",
+        "name": "the Åland Islands",
         "capital": "Mariehamn",
         "continent": "Europe"
     },
@@ -650,7 +650,7 @@
         "continent": "Europe"
     },
     {
-        "name": "Faroe Islands",
+        "name": "the Faroe Islands",
         "capital": "Tórshavn",
         "continent": "Europe"
     },
@@ -845,7 +845,7 @@
         "continent": "Europe"
     },
     {
-        "name": "United Kingdom",
+        "name": "the United Kingdom",
         "capital": "London",
         "continent": "Europe"
     },
@@ -905,7 +905,7 @@
         "continent": "North America"
     },
     {
-        "name": "British Virgin Islands",
+        "name": "the British Virgin Islands",
         "capital": "Road Town",
         "continent": "North America"
     },
@@ -915,7 +915,7 @@
         "continent": "North America"
     },
     {
-        "name": "Cayman Islands",
+        "name": "the Cayman Islands",
         "capital": "George Town",
         "continent": "North America"
     },
@@ -1075,17 +1075,17 @@
         "continent": "North America"
     },
     {
-        "name": "Turks and Caicos Islands",
+        "name": "the Turks and Caicos Islands",
         "capital": "Cockburn Town",
         "continent": "North America"
     },
     {
-        "name": "United States",
+        "name": "the United States",
         "capital": "Washington, D.C.",
         "continent": "North America"
     },
     {
-        "name": "United States Virgin Islands",
+        "name": "the Virgin Islands",
         "capital": "Charlotte Amalie",
         "continent": "North America"
     },
@@ -1120,7 +1120,7 @@
         "continent": "South America"
     },
     {
-        "name": "Falkland Islands",
+        "name": "the Falkland Islands",
         "capital": "Stanley",
         "continent": "South America"
     },
@@ -1145,7 +1145,7 @@
         "continent": "South America"
     },
     {
-        "name": "South Georgia and the South Sandwich Islands",
+        "name": "the South Georgia and the South Sandwich Islands",
         "capital": "King Edward Point",
         "continent": "South America"
     },
@@ -1170,7 +1170,7 @@
         "continent": "Oceania"
     },
     {
-        "name": "Ashmore and Cartier Islands",
+        "name": "the Ashmore and Cartier Islands",
         "capital": "Ashmore and Cartier Islands",
         "continent": "Oceania"
     },
@@ -1185,12 +1185,12 @@
         "continent": "Oceania"
     },
     {
-        "name": "Cook Islands",
+        "name": "the Cook Islands",
         "capital": "Avarua",
         "continent": "Oceania"
     },
     {
-        "name": "Coral Sea Islands",
+        "name": "the Coral Sea Islands",
         "capital": "Coral Sea Islands",
         "continent": "Oceania"
     },
@@ -1235,7 +1235,7 @@
         "continent": "Oceania"
     },
     {
-        "name": "Marshall Islands",
+        "name": "the Marshall Islands",
         "capital": "Majuro",
         "continent": "Oceania"
     },
@@ -1275,7 +1275,7 @@
         "continent": "Oceania"
     },
     {
-        "name": "Northern Mariana Islands",
+        "name": "the Northern Mariana Islands",
         "capital": "Saipan",
         "continent": "Oceania"
     },
@@ -1295,7 +1295,7 @@
         "continent": "Oceania"
     },
     {
-        "name": "Pitcairn Islands",
+        "name": "the Pitcairn Islands",
         "capital": "Adamstown",
         "continent": "Oceania"
     },
@@ -1305,7 +1305,7 @@
         "continent": "Oceania"
     },
     {
-        "name": "Solomon Islands",
+        "name": "the Solomon Islands",
         "capital": "Honiara",
         "continent": "Oceania"
     },

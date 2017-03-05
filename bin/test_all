@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "dadaist"
+
+templates = JSON.parse(File.read(ARGV[1]))
+for template in templates do
+  @generator = Dadaist::Story.new([template], ARGV[0])
+  puts @generator.generate
+end

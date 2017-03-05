@@ -22,7 +22,7 @@
   "toy-maker",
   "mathematician",
   "alchemist",
-  "boatmen",
+  "boatman",
   "butler",
   "oracle",
   "centaur",
@@ -36,5 +36,14 @@
   "librarian",
   "astronomer",
   "courtesan",
-  "herbalist"
+  "herbalist",
+  "sheikh",
+  "artesan",
+  "prime minister",
+  "president",
+  "high priest",
+  "politician",
+  "author",
+  "artist",
+  "athelete"
 ]
